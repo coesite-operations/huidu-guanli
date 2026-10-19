@@ -17,5 +17,9 @@
     "education",
     "training"
   ],
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coesite-operations/huidu-guanli.git"
+  }
 }
